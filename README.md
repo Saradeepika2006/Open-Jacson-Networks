@@ -20,6 +20,7 @@ Visual components and Python
 
 ## Experiment:
 
+<img width="504" height="330" alt="Screenshot 2026-03-11 082743" src="https://github.com/user-attachments/assets/ffa474b5-9283-4d48-8b3c-9297fc4dc12c" />
 
 ## Program
 ```
@@ -73,8 +74,6 @@ else:
 
 print("-----------------------------------------------------------------------")
 ```
-
-
 
 ## Output
 <img width="723" height="702" alt="Screenshot 2026-03-10 091432" src="https://github.com/user-attachments/assets/76a6db07-f322-42aa-bc81-a8664959f4eb" />
